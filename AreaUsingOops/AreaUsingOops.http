@@ -1,0 +1,6 @@
+@AreaUsingOops_HostAddress = http://localhost:5096
+
+GET {{AreaUsingOops_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
